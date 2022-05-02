@@ -1,0 +1,510 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "title": "SunlightIO",
+        "slug": "sunlight-io",
+        "createdAt": "2022-03-19T01:12:55.872Z",
+        "updatedAt": "2022-04-03T00:34:59.279Z",
+        "publishedAt": "2022-03-19T02:11:03.263Z",
+        "footer": "<p style=\"text-align:center;\">Feito com &lt;span class=\"heart\"&gt;❤&lt;/span&gt; por Wendell Diniz</p>",
+        "menu": {
+          "id": 2,
+          "logo_text": "SunlightIO",
+          "logo_link": "#home",
+          "new_tab": false,
+          "menu_link": [
+            {
+              "id": 3,
+              "link_text": "Intro",
+              "url": "#intro",
+              "new_tab": false
+            },
+            {
+              "id": 4,
+              "link_text": "Benefícios",
+              "url": "#beneficios",
+              "new_tab": false
+            },
+            {
+              "id": 5,
+              "link_text": "Produtos e Serviços",
+              "url": "#gallery",
+              "new_tab": false
+            },
+            {
+              "id": 6,
+              "link_text": "Depoimentos",
+              "url": "#depoimentos",
+              "new_tab": false
+            }
+          ],
+          "logo": {
+            "data": {
+              "id": 4,
+              "attributes": {
+                "name": "logo.png",
+                "alternativeText": "SunlightIO Logo",
+                "caption": "logo.png",
+                "width": 379,
+                "height": 292,
+                "formats": {
+                  "thumbnail": {
+                    "name": "thumbnail_logo.png",
+                    "hash": "thumbnail_logo_024cecb55c",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "path": null,
+                    "width": 202,
+                    "height": 156,
+                    "size": 33.47,
+                    "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647652187/thumbnail_logo_024cecb55c.png",
+                    "provider_metadata": {
+                      "public_id": "thumbnail_logo_024cecb55c",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "logo_024cecb55c",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 32.92,
+                "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647652186/logo_024cecb55c.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "logo_024cecb55c",
+                  "resource_type": "image"
+                },
+                "createdAt": "2022-03-19T01:09:48.110Z",
+                "updatedAt": "2022-04-03T00:34:43.849Z"
+              }
+            }
+          }
+        },
+        "sections": [
+          {
+            "id": 2,
+            "__component": "section.section-two-columns",
+            "title": "Home",
+            "description": "Já imaginou produzir sua própria energia e reduzir a sua conta de luz? E ainda, uma energia sustentável, que agride menos o meio-ambiente? Agora você pode!",
+            "image": {
+              "data": {
+                "id": 5,
+                "attributes": {
+                  "name": "solar-array.jpg",
+                  "alternativeText": "Um conjunto de painéis solares",
+                  "caption": "",
+                  "width": 1920,
+                  "height": 1080,
+                  "formats": {
+                    "thumbnail": {
+                      "name": "thumbnail_piqsels.com-id-sbrnx.jpg",
+                      "hash": "thumbnail_piqsels_com_id_sbrnx_c81d065c8a",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 245,
+                      "height": 138,
+                      "size": 9.71,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647653270/thumbnail_piqsels_com_id_sbrnx_c81d065c8a.jpg",
+                      "provider_metadata": {
+                        "public_id": "thumbnail_piqsels_com_id_sbrnx_c81d065c8a",
+                        "resource_type": "image"
+                      }
+                    },
+                    "large": {
+                      "name": "large_piqsels.com-id-sbrnx.jpg",
+                      "hash": "large_piqsels_com_id_sbrnx_c81d065c8a",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 1000,
+                      "height": 563,
+                      "size": 110.38,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647653272/large_piqsels_com_id_sbrnx_c81d065c8a.jpg",
+                      "provider_metadata": {
+                        "public_id": "large_piqsels_com_id_sbrnx_c81d065c8a",
+                        "resource_type": "image"
+                      }
+                    },
+                    "medium": {
+                      "name": "medium_piqsels.com-id-sbrnx.jpg",
+                      "hash": "medium_piqsels_com_id_sbrnx_c81d065c8a",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 750,
+                      "height": 422,
+                      "size": 68.84,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647653273/medium_piqsels_com_id_sbrnx_c81d065c8a.jpg",
+                      "provider_metadata": {
+                        "public_id": "medium_piqsels_com_id_sbrnx_c81d065c8a",
+                        "resource_type": "image"
+                      }
+                    },
+                    "small": {
+                      "name": "small_piqsels.com-id-sbrnx.jpg",
+                      "hash": "small_piqsels_com_id_sbrnx_c81d065c8a",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "path": null,
+                      "width": 500,
+                      "height": 281,
+                      "size": 34.44,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647653274/small_piqsels_com_id_sbrnx_c81d065c8a.jpg",
+                      "provider_metadata": {
+                        "public_id": "small_piqsels_com_id_sbrnx_c81d065c8a",
+                        "resource_type": "image"
+                      }
+                    }
+                  },
+                  "hash": "piqsels_com_id_sbrnx_c81d065c8a",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 315.77,
+                  "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647653269/piqsels_com_id_sbrnx_c81d065c8a.jpg",
+                  "previewUrl": null,
+                  "provider": "cloudinary",
+                  "provider_metadata": {
+                    "public_id": "piqsels_com_id_sbrnx_c81d065c8a",
+                    "resource_type": "image"
+                  },
+                  "createdAt": "2022-03-19T01:27:55.366Z",
+                  "updatedAt": "2022-03-19T01:28:44.748Z"
+                }
+              }
+            },
+            "metadata": {
+              "id": 4,
+              "name": "Home",
+              "section_id": "home",
+              "background": true
+            }
+          },
+          {
+            "id": 2,
+            "__component": "section.section-content",
+            "title": "O futuro em suas mãos",
+            "content": "<p>Somos uma equipe dedicada a trazer aos nossos clientes o melhor serviço e a melhor economia.</p>",
+            "metadata": {
+              "id": 5,
+              "name": "Intro",
+              "section_id": "intro",
+              "background": false
+            }
+          },
+          {
+            "id": 2,
+            "__component": "section.section-grid",
+            "title": "Benefícios",
+            "description": "Investir em energia solar tem vários benefícios.",
+            "image_grid": [],
+            "text_grid": [
+              {
+                "id": 4,
+                "title": "Economia",
+                "description": "Com geração local, você produz sua própria energia. Enquanto você estiver produzindo, não estará consumindo a energia da concessionária. Ainda, a energia que você produziu e não consumiu pode ser fornecida para a concessionária. Ou seja, estará economizando milhares de reais por ano."
+              },
+              {
+                "id": 5,
+                "title": "Tecnologia",
+                "description": "Trabalhamos com os melhores fornecedores, buscando sempre os equipamentos mais atuais, com o melhor custo-benefício para nosso cliente. Monitore e tenha total controle sobre o que acontece em seu sistema."
+              },
+              {
+                "id": 6,
+                "title": "Ecologia",
+                "description": "A energia solar é uma fonte renovável e limpa, com poluição muito baixa. Você estará contribuindo com o ambiente, reduzindo o consumo de combustíveis e diminuindo o impacto ecológico de grandes usinas."
+              }
+            ],
+            "metadata": {
+              "id": 6,
+              "name": "Benefícios",
+              "section_id": "beneficios",
+              "background": true
+            }
+          },
+          {
+            "id": 4,
+            "__component": "section.section-grid",
+            "title": "Produtos e Serviços",
+            "description": "Nossa equipe se empenha em trazer os melhores produtos e manter nossos serviços no mais alto nível.",
+            "image_grid": [
+              {
+                "id": 1,
+                "image": {
+                  "data": {
+                    "id": 6,
+                    "attributes": {
+                      "name": "sola-panel.jpg",
+                      "alternativeText": "Solar panels mounted on a hill.",
+                      "caption": "Fernando Tomás from Zaragoza, Spain, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+                      "width": 1280,
+                      "height": 960,
+                      "formats": {
+                        "thumbnail": {
+                          "name": "thumbnail_https://upload.wikimedia.org/wikipedia/commons/3/37/Solar_Panels.jpg",
+                          "hash": "thumbnail_Solar_Panels_88f47218f5",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 208,
+                          "height": 156,
+                          "size": 8.09,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647654789/thumbnail_Solar_Panels_88f47218f5.jpg",
+                          "provider_metadata": {
+                            "public_id": "thumbnail_Solar_Panels_88f47218f5",
+                            "resource_type": "image"
+                          }
+                        },
+                        "large": {
+                          "name": "large_https://upload.wikimedia.org/wikipedia/commons/3/37/Solar_Panels.jpg",
+                          "hash": "large_Solar_Panels_88f47218f5",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 1000,
+                          "height": 750,
+                          "size": 148.34,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647654790/large_Solar_Panels_88f47218f5.jpg",
+                          "provider_metadata": {
+                            "public_id": "large_Solar_Panels_88f47218f5",
+                            "resource_type": "image"
+                          }
+                        },
+                        "medium": {
+                          "name": "medium_https://upload.wikimedia.org/wikipedia/commons/3/37/Solar_Panels.jpg",
+                          "hash": "medium_Solar_Panels_88f47218f5",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 750,
+                          "height": 563,
+                          "size": 87.43,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647654792/medium_Solar_Panels_88f47218f5.jpg",
+                          "provider_metadata": {
+                            "public_id": "medium_Solar_Panels_88f47218f5",
+                            "resource_type": "image"
+                          }
+                        },
+                        "small": {
+                          "name": "small_https://upload.wikimedia.org/wikipedia/commons/3/37/Solar_Panels.jpg",
+                          "hash": "small_Solar_Panels_88f47218f5",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 500,
+                          "height": 375,
+                          "size": 40.7,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647654793/small_Solar_Panels_88f47218f5.jpg",
+                          "provider_metadata": {
+                            "public_id": "small_Solar_Panels_88f47218f5",
+                            "resource_type": "image"
+                          }
+                        }
+                      },
+                      "hash": "Solar_Panels_88f47218f5",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "size": 231.63,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647654788/Solar_Panels_88f47218f5.jpg",
+                      "previewUrl": null,
+                      "provider": "cloudinary",
+                      "provider_metadata": {
+                        "public_id": "Solar_Panels_88f47218f5",
+                        "resource_type": "image"
+                      },
+                      "createdAt": "2022-03-19T01:53:13.584Z",
+                      "updatedAt": "2022-03-19T01:54:15.240Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 2,
+                "image": {
+                  "data": {
+                    "id": 7,
+                    "attributes": {
+                      "name": "electrician.jpg",
+                      "alternativeText": "Um eletricista instalando uma caixa de distribuição.",
+                      "caption": "",
+                      "width": 640,
+                      "height": 425,
+                      "formats": {
+                        "thumbnail": {
+                          "name": "thumbnail_https://pixabay.com/get/gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640.jpg",
+                          "hash": "thumbnail_gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 235,
+                          "height": 156,
+                          "size": 9.81,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655001/thumbnail_gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7.jpg",
+                          "provider_metadata": {
+                            "public_id": "thumbnail_gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7",
+                            "resource_type": "image"
+                          }
+                        },
+                        "small": {
+                          "name": "small_https://pixabay.com/get/gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640.jpg",
+                          "hash": "small_gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 500,
+                          "height": 332,
+                          "size": 37.69,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655002/small_gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7.jpg",
+                          "provider_metadata": {
+                            "public_id": "small_gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7",
+                            "resource_type": "image"
+                          }
+                        }
+                      },
+                      "hash": "gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "size": 63.96,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655000/gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7.jpg",
+                      "previewUrl": null,
+                      "provider": "cloudinary",
+                      "provider_metadata": {
+                        "public_id": "gb57bea992053cbc34e76cd896f22adcfdeb072df891f7736b0154cc507747eb085283b213422bc4c608a2f31062ebc25a563ebea8c8b0a017d2203c03c630a99d74657dde46e6c7337c8982c57364562_640_e9ffb90be7",
+                        "resource_type": "image"
+                      },
+                      "createdAt": "2022-03-19T01:56:43.180Z",
+                      "updatedAt": "2022-03-19T01:57:30.636Z"
+                    }
+                  }
+                }
+              },
+              {
+                "id": 3,
+                "image": {
+                  "data": {
+                    "id": 8,
+                    "attributes": {
+                      "name": "smart-home-hub.jpg",
+                      "alternativeText": "Figura estilizada de um hub de casa inteligente.",
+                      "caption": "smart-home-hub.jpg",
+                      "width": 800,
+                      "height": 535,
+                      "formats": {
+                        "thumbnail": {
+                          "name": "thumbnail_smart-home-hub.jpg",
+                          "hash": "thumbnail_smart_home_hub_e38e2f1060",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 234,
+                          "height": 156,
+                          "size": 5.9,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655264/thumbnail_smart_home_hub_e38e2f1060.jpg",
+                          "provider_metadata": {
+                            "public_id": "thumbnail_smart_home_hub_e38e2f1060",
+                            "resource_type": "image"
+                          }
+                        },
+                        "medium": {
+                          "name": "medium_smart-home-hub.jpg",
+                          "hash": "medium_smart_home_hub_e38e2f1060",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 750,
+                          "height": 502,
+                          "size": 26.83,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655266/medium_smart_home_hub_e38e2f1060.jpg",
+                          "provider_metadata": {
+                            "public_id": "medium_smart_home_hub_e38e2f1060",
+                            "resource_type": "image"
+                          }
+                        },
+                        "small": {
+                          "name": "small_smart-home-hub.jpg",
+                          "hash": "small_smart_home_hub_e38e2f1060",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "path": null,
+                          "width": 500,
+                          "height": 334,
+                          "size": 15.73,
+                          "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655267/small_smart_home_hub_e38e2f1060.jpg",
+                          "provider_metadata": {
+                            "public_id": "small_smart_home_hub_e38e2f1060",
+                            "resource_type": "image"
+                          }
+                        }
+                      },
+                      "hash": "smart_home_hub_e38e2f1060",
+                      "ext": ".jpg",
+                      "mime": "image/jpeg",
+                      "size": 28.06,
+                      "url": "https://res.cloudinary.com/singularity-softworks/image/upload/v1647655263/smart_home_hub_e38e2f1060.jpg",
+                      "previewUrl": null,
+                      "provider": "cloudinary",
+                      "provider_metadata": {
+                        "public_id": "smart_home_hub_e38e2f1060",
+                        "resource_type": "image"
+                      },
+                      "createdAt": "2022-03-19T02:01:08.105Z",
+                      "updatedAt": "2022-03-19T02:01:08.105Z"
+                    }
+                  }
+                }
+              }
+            ],
+            "text_grid": [],
+            "metadata": {
+              "id": 8,
+              "name": "Produtos e Serviços",
+              "section_id": "gallery",
+              "background": false
+            }
+          },
+          {
+            "id": 3,
+            "__component": "section.section-grid",
+            "title": "Depoimentos",
+            "description": "Confira quem já contratou nossos serviços.",
+            "image_grid": [],
+            "text_grid": [
+              {
+                "id": 7,
+                "title": "José da Silva",
+                "description": "Os caras são bão."
+              },
+              {
+                "id": 8,
+                "title": "Maria de Souza",
+                "description": "O sistema foi bem instalado e agora estou economizando!"
+              },
+              {
+                "id": 9,
+                "title": "André Garcia",
+                "description": "Minha casa agora é inteligente!"
+              }
+            ],
+            "metadata": {
+              "id": 7,
+              "name": "Depoimentos",
+              "section_id": "depoimentos",
+              "background": true
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 1
+    }
+  }
+}

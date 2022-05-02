@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridText /> should match the snapshot 1`] = `
+.c4 {
+  color: #0a1128;
+  font-size: 5.6rem;
+  text-transform: uppercase;
+}
+
+.c9 {
+  color: #0a1128;
+  font-size: 4rem;
+  text-transform: none;
+}
+
+.c6 {
+  font-size: 2.4rem;
+}
+
+.c2 .c5 {
+  margin-bottom: 6.4rem;
+}
+
+.c7 {
+  counter-reset: grid-counter;
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
+  gap: 3.2rem;
+  overflow: hidden;
+  width: 100%;
+}
+
+.c8 .c3 {
+  position: relative;
+  left: 5rem;
+}
+
+.c8 .c3::before {
+  counter-increment: grid-counter;
+  content: counter(grid-counter);
+  position: absolute;
+  font-size: 5.6rem;
+  top: -1rem;
+  left: -4rem;
+  -webkit-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+
+.c1 {
+  max-width: 120rem;
+  margin: auto;
+  padding: 3.2rem;
+  width: 100%;
+}
+
+.c0 {
+  background: #f3f3f3;
+  color: #0a1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+@media (max-width:768px) {
+  .c4 {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width:768px) {
+  .c9 {
+    font-size: 3.2rem;
+  }
+}
+
+@media (max-width:768px) {
+  .c7 {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width:768px) {
+  .c8 .c3::before {
+    font-size: 4rem;
+    top: -0.75rem;
+    left: -3.2rem;
+  }
+}
+
+<div
+  class="c0"
+  id="grid"
+>
+  <div
+    class="c1"
+  >
+    <div
+      class="c2"
+    >
+      <h2
+        class="c3 c4"
+      >
+        Grid Section
+      </h2>
+      <div
+        class="c5 c6"
+      >
+        Lorem ipsum dolor sit, amet consectetur adpiscing elit.
+      </div>
+      <div
+        class="c7"
+      >
+        <div
+          class="c8"
+        >
+          <h3
+            class="c3 c9"
+          >
+            Teste 1
+          </h3>
+          <div
+            class="c5 c6"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae totam voluptatibus ex asperiores. Accusantium ipsam debitis molestias commodi quis temporibus quod eos cum quibusdam est perferendis pariatur veritatis, dolorum in.
+          </div>
+        </div>
+        <div
+          class="c8"
+        >
+          <h3
+            class="c3 c9"
+          >
+            Teste 2
+          </h3>
+          <div
+            class="c5 c6"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae totam voluptatibus ex asperiores. Accusantium ipsam debitis molestias commodi quis temporibus quod eos cum quibusdam est perferendis pariatur veritatis, dolorum in.
+          </div>
+        </div>
+        <div
+          class="c8"
+        >
+          <h3
+            class="c3 c9"
+          >
+            Teste 3
+          </h3>
+          <div
+            class="c5 c6"
+          >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae totam voluptatibus ex asperiores. Accusantium ipsam debitis molestias commodi quis temporibus quod eos cum quibusdam est perferendis pariatur veritatis, dolorum in.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
