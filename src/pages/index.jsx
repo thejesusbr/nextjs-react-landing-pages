@@ -1,5 +1,4 @@
 import P from 'prop-types';
-import React from 'react';
 import config from '../config';
 import { mapData } from '../api/map-data';
 import * as qs from 'qs';

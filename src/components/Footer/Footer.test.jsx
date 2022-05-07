@@ -1,6 +1,7 @@
 import { screen } from '@testing-library/react';
 import { renderTheme } from '../../styles/render-theme';
 import { Footer } from '.';
+import 'jest';
 
 describe('<Footer />', () => {
   it('should render', () => {
@@ -58,7 +59,7 @@ describe('<Footer />', () => {
               Children
             </h1>
           </div>
-           
+
         </div>
       </footer>
     `);

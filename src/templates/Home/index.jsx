@@ -68,7 +68,7 @@ function Home({ data = null }) {
   //   }
   // }, [data]);
 
-  if (!data || data.length == 0) {
+  if (!data) {
     return <PageNotFound />;
   }
 
