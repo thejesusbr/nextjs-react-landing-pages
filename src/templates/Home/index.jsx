@@ -68,9 +68,9 @@ function Home({ data = null }) {
   //   }
   // }, [data]);
 
-  if (!data) {
-    return <PageNotFound />;
-  }
+  // if (!data) {
+  //   return <PageNotFound />;
+  // }
 
   // if (data && !data.slug) {
   //   return <Loading />;
