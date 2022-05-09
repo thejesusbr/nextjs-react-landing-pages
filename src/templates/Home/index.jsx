@@ -115,5 +115,5 @@ function Home({ data = null }) {
 export default Home;
 
 Home.propTypes = {
-  data: P.object,
+  data: P.array,
 };
