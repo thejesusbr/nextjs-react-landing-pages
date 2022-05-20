@@ -13,6 +13,7 @@ import { GridText } from '../../components/GridText';
 import { GridImage } from '../../components/GridImage';
 // import { useLocation } from 'react-router-dom';
 import config from '../../config';
+import { theme } from '../../styles/theme';
 // import { mapData } from '../../api/map-data';
 
 function Home({ data = null }) {
@@ -91,6 +92,11 @@ function Home({ data = null }) {
           <title>
             {title} | {config.siteName}
           </title>
+          <meta name="theme-color" content={theme.colors.primaryColor} />
+          <meta
+            name="description"
+            content="SunlightIO instalações elétricas, energia solar e automação"
+          />
         </Head>
         {sections.map((section, index) => {
           const { component } = section;

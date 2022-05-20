@@ -42,6 +42,7 @@ export default class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Concert+One&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
             rel="stylesheet"
           />
+          <link rel="shortcut icon" href="favicon.png" />
         </Head>
         <body>
           <Main />
